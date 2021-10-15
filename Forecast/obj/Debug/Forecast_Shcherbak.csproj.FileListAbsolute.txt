@@ -1,0 +1,43 @@
+c:\users\nastya\documents\visual studio 2013\Projects\Forecast_Shcherbak\Forecast_Shcherbak\bin\Debug\Forecast_Shcherbak.exe.config
+c:\users\nastya\documents\visual studio 2013\Projects\Forecast_Shcherbak\Forecast_Shcherbak\obj\Debug\Forecast_Shcherbak.Properties.Resources.resources
+c:\users\nastya\documents\visual studio 2013\Projects\Forecast_Shcherbak\Forecast_Shcherbak\obj\Debug\Forecast_Shcherbak.csproj.GenerateResource.Cache
+c:\users\nastya\documents\visual studio 2013\Projects\Forecast_Shcherbak\Forecast_Shcherbak\bin\Debug\Forecast_Shcherbak.exe
+c:\users\nastya\documents\visual studio 2013\Projects\Forecast_Shcherbak\Forecast_Shcherbak\bin\Debug\Forecast_Shcherbak.pdb
+c:\users\nastya\documents\visual studio 2013\Projects\Forecast_Shcherbak\Forecast_Shcherbak\obj\Debug\Forecast_Shcherbak.exe
+c:\users\nastya\documents\visual studio 2013\Projects\Forecast_Shcherbak\Forecast_Shcherbak\obj\Debug\Forecast_Shcherbak.pdb
+C:\Users\nastya\Documents\Visual Studio 2013\Projects\Forecast_Shcherbak\Forecast_Shcherbak\obj\Debug\Forecast_Shcherbak.Frm_forecast.resources
+C:\Users\nastya\Documents\Visual Studio 2013\Projects\Forecast_Shcherbak\Forecast_Shcherbak\obj\Debug\Forecast_Shcherbak.Frm_autorization.resources
+C:\Users\nastya\Documents\Visual Studio 2013\Projects\Forecast_Shcherbak\Forecast_Shcherbak\obj\Debug\Forecast_Shcherbak.Frm_main.resources
+C:\Users\nastya\Documents\Visual Studio 2013\Projects\Forecast_Shcherbak\Forecast_Shcherbak\obj\Debug\Forecast_Shcherbak.Frm_Admin.resources
+C:\Users\nastya\Documents\Visual Studio 2013\Projects\Forecast_Shcherbak\Forecast_Shcherbak\obj\Debug\Forecast_Shcherbak.Frm_client.resources
+C:\Users\nastya\Documents\Visual Studio 2013\Projects\Forecast_Shcherbak\Forecast_Shcherbak\bin\Debug\en-US\Forecast_Shcherbak.resources.dll
+C:\Users\nastya\Documents\Visual Studio 2013\Projects\Forecast_Shcherbak\Forecast_Shcherbak\obj\Debug\Forecast_Shcherbak.Frm_autorization.en-US.resources
+C:\Users\nastya\Documents\Visual Studio 2013\Projects\Forecast_Shcherbak\Forecast_Shcherbak\obj\Debug\en-US\Forecast_Shcherbak.resources.dll
+C:\Users\nastya\Documents\Visual Studio 2013\Projects\Forecast_Shcherbak\Forecast_Shcherbak\bin\Debug\TestMatlab.dll
+C:\Users\nastya\Documents\Visual Studio 2013\Projects\Forecast_Shcherbak\Forecast_Shcherbak\bin\Debug\TestMatlab.xml
+C:\Users\nastya\Documents\Visual Studio 2013\Projects\Forecast_Shcherbak\Forecast_Shcherbak\obj\Debug\Forecast_Shcherbak.csprojResolveAssemblyReference.cache
+C:\Users\nastya\Documents\Visual Studio 2013\Projects\Forecast_Shcherbak\Forecast_Shcherbak\obj\Debug\Interop.MLApp.dll
+C:\Users\nastya\Documents\Visual Studio 2013\Projects\Forecast_Shcherbak\Forecast_Shcherbak\obj\Debug\Forecast_Shcherbak.csproj.ResolveComReference.cache
+C:\Users\nastya\Documents\Visual Studio 2013\Projects\Forecast_Shcherbak\Forecast_Shcherbak\obj\Debug\Forecast_Shcherbak.Detail_forecast.resources
+C:\Users\nastya\Documents\Visual Studio 2013\Projects\Forecast_Shcherbak\Forecast_Shcherbak\obj\Debug\Forecast_Shcherbak.Frm_GMDH.resources
+C:\Users\nastya\Documents\Database\diplom_currency_rate\Diplom_Shcherbak\Диплом\PROGRAM\Forecast_Shcherbak\Forecast_Shcherbak\bin\Debug\Forecast_Shcherbak.exe.config
+C:\Users\nastya\Documents\Database\diplom_currency_rate\Diplom_Shcherbak\Диплом\PROGRAM\Forecast_Shcherbak\Forecast_Shcherbak\obj\Debug\Interop.MLApp.dll
+C:\Users\nastya\Documents\Database\diplom_currency_rate\Diplom_Shcherbak\Диплом\PROGRAM\Forecast_Shcherbak\Forecast_Shcherbak\obj\Debug\Forecast_Shcherbak.csproj.ResolveComReference.cache
+C:\Users\nastya\Documents\Database\diplom_currency_rate\Diplom_Shcherbak\Диплом\PROGRAM\Forecast_Shcherbak\Forecast_Shcherbak\obj\Debug\Forecast_Shcherbak.exe
+C:\Users\nastya\Documents\Database\diplom_currency_rate\Diplom_Shcherbak\Диплом\PROGRAM\Forecast_Shcherbak\Forecast_Shcherbak\obj\Debug\Forecast_Shcherbak.pdb
+C:\Users\nastya\Documents\Database\diplom_currency_rate\Diplom_Shcherbak\Диплом\PROGRAM\Forecast_Shcherbak\Forecast_Shcherbak\bin\Debug\Forecast_Shcherbak.exe
+C:\Users\nastya\Documents\Database\diplom_currency_rate\Diplom_Shcherbak\Диплом\PROGRAM\Forecast_Shcherbak\Forecast_Shcherbak\bin\Debug\Forecast_Shcherbak.pdb
+C:\Users\nastya\Documents\Database\diplom_currency_rate\Diplom_Shcherbak\Диплом\PROGRAM\Forecast_Shcherbak\Forecast_Shcherbak\bin\Debug\en-US\Forecast_Shcherbak.resources.dll
+C:\Users\nastya\Documents\Database\diplom_currency_rate\Diplom_Shcherbak\Диплом\PROGRAM\Forecast_Shcherbak\Forecast_Shcherbak\bin\Debug\TestMatlab.xml
+C:\Users\nastya\Documents\Database\diplom_currency_rate\Diplom_Shcherbak\Диплом\PROGRAM\Forecast_Shcherbak\Forecast_Shcherbak\obj\Debug\Forecast_Shcherbak.csprojResolveAssemblyReference.cache
+C:\Users\nastya\Documents\Database\diplom_currency_rate\Diplom_Shcherbak\Диплом\PROGRAM\Forecast_Shcherbak\Forecast_Shcherbak\obj\Debug\Forecast_Shcherbak.Detail_forecast.resources
+C:\Users\nastya\Documents\Database\diplom_currency_rate\Diplom_Shcherbak\Диплом\PROGRAM\Forecast_Shcherbak\Forecast_Shcherbak\obj\Debug\Forecast_Shcherbak.Frm_autorization.resources
+C:\Users\nastya\Documents\Database\diplom_currency_rate\Diplom_Shcherbak\Диплом\PROGRAM\Forecast_Shcherbak\Forecast_Shcherbak\obj\Debug\Forecast_Shcherbak.Frm_client.resources
+C:\Users\nastya\Documents\Database\diplom_currency_rate\Diplom_Shcherbak\Диплом\PROGRAM\Forecast_Shcherbak\Forecast_Shcherbak\obj\Debug\Forecast_Shcherbak.Frm_forecast.resources
+C:\Users\nastya\Documents\Database\diplom_currency_rate\Diplom_Shcherbak\Диплом\PROGRAM\Forecast_Shcherbak\Forecast_Shcherbak\obj\Debug\Forecast_Shcherbak.Frm_GMDH.resources
+C:\Users\nastya\Documents\Database\diplom_currency_rate\Diplom_Shcherbak\Диплом\PROGRAM\Forecast_Shcherbak\Forecast_Shcherbak\obj\Debug\Forecast_Shcherbak.Frm_main.resources
+C:\Users\nastya\Documents\Database\diplom_currency_rate\Diplom_Shcherbak\Диплом\PROGRAM\Forecast_Shcherbak\Forecast_Shcherbak\obj\Debug\Forecast_Shcherbak.Frm_Admin.resources
+C:\Users\nastya\Documents\Database\diplom_currency_rate\Diplom_Shcherbak\Диплом\PROGRAM\Forecast_Shcherbak\Forecast_Shcherbak\obj\Debug\Forecast_Shcherbak.Properties.Resources.resources
+C:\Users\nastya\Documents\Database\diplom_currency_rate\Diplom_Shcherbak\Диплом\PROGRAM\Forecast_Shcherbak\Forecast_Shcherbak\obj\Debug\Forecast_Shcherbak.Frm_autorization.en-US.resources
+C:\Users\nastya\Documents\Database\diplom_currency_rate\Diplom_Shcherbak\Диплом\PROGRAM\Forecast_Shcherbak\Forecast_Shcherbak\obj\Debug\Forecast_Shcherbak.csproj.GenerateResource.Cache
+C:\Users\nastya\Documents\Database\diplom_currency_rate\Diplom_Shcherbak\Диплом\PROGRAM\Forecast_Shcherbak\Forecast_Shcherbak\obj\Debug\en-US\Forecast_Shcherbak.resources.dll

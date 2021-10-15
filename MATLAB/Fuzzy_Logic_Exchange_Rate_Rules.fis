@@ -1,0 +1,125 @@
+[System]
+Name='Fuzzy_Logic_Exchange_Rate_Rules'
+Type='mamdani'
+Version=2.0
+NumInputs=8
+NumOutputs=1
+NumRules=39
+AndMethod='min'
+OrMethod='max'
+ImpMethod='min'
+AggMethod='max'
+DefuzzMethod='centroid'
+
+[Input1]
+Name='inflation'
+Range=[80 500]
+NumMFs=3
+MF1='medium':'gaussmf',[18.02 111]
+MF2='low':'sigmf',[-0.478830402059151 90.2]
+MF3='high':'sigmf',[0.0157799430818653 290]
+
+[Input2]
+Name='interest'
+Range=[0 3]
+NumMFs=3
+MF1='average':'gaussmf',[0.186105454071779 0.25]
+MF2='negative':'sigmf',[-74.1513084051677 0.05]
+MF3='positive':'sigmf',[6.19248331261475 1]
+
+[Input3]
+Name='GDP'
+Range=[65 140]
+NumMFs=3
+MF1='steady':'gaussmf',[4.29491820459842 105]
+MF2='decrease':'sigmf',[-0.207418898990675 85]
+MF3='increase':'sigmf',[0.67098040856289 110]
+
+[Input4]
+Name='external'
+Range=[0 140]
+NumMFs=3
+MF1='steady':'gaussmf',[17.0048395117255 70]
+MF2='decrease':'sigmf',[-0.212582629442487 50]
+MF3='increase':'sigmf',[0.216670756931766 90]
+
+[Input5]
+Name='war'
+Range=[0 1]
+NumMFs=3
+MF1='steady':'trapmf',[0.102 0.214 0.382990249187432 0.499]
+MF2='decrease':'trimf',[-1 0 0.199891657638136]
+MF3='increase':'trimf',[0.40249187432286 1 2]
+
+[Input6]
+Name='mind'
+Range=[0 1]
+NumMFs=3
+MF1='steady':'trapmf',[0.1 0.212892741061755 0.388 0.501]
+MF2='positive':'trimf',[-0.999 0.00108 0.198808234019502]
+MF3='negative':'trimf',[0.40249187432286 1 2]
+
+[Input7]
+Name='government'
+Range=[0 1]
+NumMFs=2
+MF1='unsteady':'trimf',[-0.0113759479956663 0.999 1]
+MF2='steady':'trimf',[-0.502 -0.00379 0.999458288190683]
+
+[Input8]
+Name='currency'
+Range=[0 1]
+NumMFs=1
+MF1='currency':'trapmf',[0.501 0.501 0.998 0.999]
+
+[Output1]
+Name='exchange_rate_change'
+Range=[-30 30]
+NumMFs=6
+MF1='decrease':'gaussmf',[-3 -15]
+MF2='steady_decrease':'gaussmf',[3.10069863597213 -5]
+MF3='steady_increase':'gaussmf',[3.422 5]
+MF4='increase':'gaussmf',[3.57 15]
+MF5='uncontrolled_decrease':'sigmf',[-0.4259 -19.8412698412698]
+MF6='uncontrolled_increase':'sigmf',[0.4 20]
+
+[Rules]
+2 2 3 2 2 3 2 1, 1 (1) : 1
+1 3 3 3 2 3 2 1, 4 (1) : 1
+3 3 3 3 2 3 2 1, 2 (1) : 1
+2 1 3 3 2 3 2 1, 2 (1) : 1
+2 2 3 3 2 3 2 1, 1 (1) : 1
+1 1 3 2 2 3 2 1, 2 (1) : 1
+3 2 3 2 2 3 2 1, 1 (1) : 1
+1 1 1 1 1 1 2 1, 3 (1) : 1
+3 2 2 2 3 2 2 1, 5 (1) : 1
+3 1 1 1 1 1 1 1, 2 (1) : 1
+3 1 2 3 1 2 2 1, 1 (1) : 1
+1 1 1 3 3 1 1 1, 2 (1) : 1
+1 1 3 3 3 1 1 1, 3 (1) : 1
+1 3 1 3 1 3 1 1, 3 (1) : 1
+2 3 1 3 1 3 1 1, 3 (1) : 1
+2 3 1 3 1 2 1 1, 3 (1) : 1
+2 3 1 3 1 1 1 1, 3 (1) : 1
+2 3 1 3 2 3 1 1, 4 (1) : 1
+3 3 2 3 2 2 2 1, 1 (1) : 1
+3 1 3 2 1 1 1 1, 2 (1) : 1
+1 1 3 2 2 1 1 1, 3 (1) : 1
+1 1 1 2 2 1 1 1, 2 (1) : 1
+1 1 2 3 1 1 1 1, 2 (1) : 1
+1 1 2 3 1 1 2 1, 2 (1) : 1
+1 3 2 3 3 1 1 1, 1 (1) : 1
+1 1 3 3 1 3 1 1, 2 (1) : 1
+2 0 0 0 0 0 0 1, 4 (1) : 1
+0 0 0 3 3 2 2 1, 5 (1) : 1
+0 0 3 1 0 3 1 1, 4 (1) : 1
+0 1 1 0 1 0 0 1, 3 (1) : 1
+0 2 3 0 2 0 0 1, 3 (1) : 1
+0 3 2 0 3 0 0 1, 1 (1) : 1
+3 3 2 2 2 2 2 1, 2 (1) : 1
+1 1 1 1 3 3 1 1, 1 (1) : 1
+1 1 1 3 3 3 1 1, 5 (1) : 1
+1 1 2 2 2 2 2 1, 2 (1) : 1
+1 1 2 2 2 1 2 1, 3 (1) : 1
+1 1 3 2 2 2 1 1, 3 (1) : 1
+3 3 3 3 2 2 2 1, 3 (1) : 1
